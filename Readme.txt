@@ -6,3 +6,5 @@ Line 3
 Line 6
 
 Last line.
+
+New last line

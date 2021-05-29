@@ -7,6 +7,8 @@ int i;
 i = 15;
 i++;
 
+i *= 2;
+
 printf (i);
 
 }
